@@ -1,1 +1,1 @@
-# Nesneye-Dayal-prog.2-Vize
+Sinema Kayıt Sistemi müşteri ekleme film ekleme salon kayıt sinema salonlarında kullanılır 
